@@ -1,2 +1,0 @@
-# hackathon
-for resume builder
